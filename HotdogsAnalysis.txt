@@ -1,0 +1,14 @@
+Hotdog Vendor Analysis
+======================
+
+Vegan hotdogs: 1020
+Meat hotdogs: 2360
+
+Dolly Dogs total hotdogs: 1630
+Korner Kart total hotdogs: 1750
+
+Dolly Dogs ketchup: 17 litres
+Korner Kart ketchup: 23 litres
+
+Dolly Dogs onions: 126.0 kg
+Korner Kart onions: 162.0 kg
